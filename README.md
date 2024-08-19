@@ -37,4 +37,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-b90634268/)]([https://www.linkedin.com/in/gabriel-santana-b90634268/](https://www.linkedin.com/in/gabriel-santana-b90634268/))
-[![Gmail Badge](https://img.shields.io/badge/-gval.profissional@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gval.profissional@gmail.com)](mailto:gval.profissional@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gval.profissional@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gval.profissional@gmail.com)](mailto:gval.profissional@gmail.com)
