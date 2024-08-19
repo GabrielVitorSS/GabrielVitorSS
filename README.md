@@ -31,10 +31,10 @@
 <br/>
 
 <a href="https://github.com/GabrielVitorSS" title="Perfil do GV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVitorSS&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-b90634268/)]([https://www.linkedin.com/in/gabriel-santana-b90634268/](https://www.linkedin.com/in/gabriel-santana-b90634268/))
-[![Gmail Badge](https://img.shields.io/badge/-gval.profissional@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gval.profissional@gmail.com)](mailto:gval.profissional@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gval.profissional@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gval.profissional@gmail.com)](mailto:gval.profissional@gmail.com)
