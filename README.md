@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - Hello world! Eu sou o Gabriel Vitor, estudante de Engenharia de Softwere na universidede Uniasselvi, atuante como Dev FullStack
